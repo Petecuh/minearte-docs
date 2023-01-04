@@ -1,3 +1,7 @@
+---
+description: 'Todos los siguientes comandos:'
+---
+
 # Ayudante
 
 /history (nick) | Mira el historial de un jugador antes de sancionarlo.
@@ -33,6 +37,8 @@
 /co inspect | Activa o desactiva el inspector para ver grifeos o robos.&#x20;
 
 /co lookup t:(tiempo) a:kill r:(radio) | Inspecciona los mobs muertos en un radio y tiempo determinado.&#x20;
+
+/co lookup t:(tiempo) a:chat u:(nick) | Observa los últimos mensajes de un jugador.
 
 /ping (nick) | Mira la conexión de un usuario.&#x20;
 
