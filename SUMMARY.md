@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introducción](README.md)
+* [Normas](normas.md)
 
 ## 1. Comandos
 
