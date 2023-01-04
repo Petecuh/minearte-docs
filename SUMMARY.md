@@ -2,13 +2,14 @@
 
 * [Introducción](README.md)
 
-## Comandos
+## 1. Comandos
 
-* [Ayudante](comandos/ayudante.md)
-* [Moderador](comandos/moderador.md)
-* [Administrador](comandos/administrador.md)
+* [Ayudante](1.-comandos/ayudante.md)
+* [Moderador](1.-comandos/moderador.md)
+* [Administrador](1.-comandos/administrador.md)
 
-## PREGUNTAS
+## 2. PREGUNTAS
 
-* [Tiempos sanciones](preguntas/tiempos-sanciones.md)
-* [Cómo subir una buena sanción](preguntas/como-subir-una-buena-sancion.md)
+* [Guía de SS](2.-preguntas/guia-de-ss.md)
+* [Tiempos sanciones](2.-preguntas/tiempos-sanciones.md)
+* [Cómo subir una buena sanción](2.-preguntas/como-subir-una-buena-sancion.md)
