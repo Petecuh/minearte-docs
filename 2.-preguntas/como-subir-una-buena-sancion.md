@@ -12,7 +12,7 @@ Para empezar, cuando un usuario no cumple una de las normas del servidor tendrem
 
 
 
-Si no tiene ningún warn le daremos el correspondiente. También necesitamos saber cuantos warneos pueden llegar a tener cada sanción, necesitaremos revisarlo en [tiempos sanciones.](tiempos-sanciones.md)\
+Una vez sabes si tiene o no alguna sanción le daremos el correspondiente warn. También necesitamos saber cuantos warneos pueden llegar a tener cada sanción, necesitaremos revisarlo en [tiempos sanciones.](tiempos-sanciones.md)\
 Los ayudantes no tienen acceso a los baneos, por lo que siempre será necesario pedir ayuda a un moderador o administrador.
 
 \

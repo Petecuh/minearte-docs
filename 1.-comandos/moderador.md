@@ -1,6 +1,8 @@
-# Moderador
+---
+description: 'Todos los comandos del rango Ayudante más los siguientes:'
+---
 
-Todos los comandos del rango Ayudante más los siguientes:
+# Moderador
 
 /tptoggle | Activa o desactiva las peticiones de tpa.
 
