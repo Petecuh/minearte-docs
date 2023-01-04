@@ -1,7 +1,3 @@
----
-description: 'Todos los siguientes comandos:'
----
-
 # Ayudante
 
 /history (nick) | Mira el historial de un jugador antes de sancionarlo.

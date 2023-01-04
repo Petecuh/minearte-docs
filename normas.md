@@ -1,7 +1,3 @@
----
-description: Aquí se muestran todas las normas que debe cumplir un staff.
----
-
 # Normas
 
 1. Cumplir las normas generales. &#x20;
