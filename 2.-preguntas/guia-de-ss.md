@@ -1,3 +1,9 @@
+---
+description: >-
+  Para hacer una SS puedes elegir dos métodos o más. Dos de estos son por:
+  Captura de pantalla en Discord o Anydesk.
+---
+
 # Guía de SS
 
 ⤀ PASOS:&#x20;
