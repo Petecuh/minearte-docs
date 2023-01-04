@@ -11,7 +11,7 @@
 
 ## 2. PREGUNTAS
 
-* [Cómo subir una buena sanción](2.-preguntas/como-subir-una-buena-sancion.md)
+* [Cómo sancionar a un jugador](2.-preguntas/como-sancionar-a-un-jugador.md)
 * [Tiempos sanciones](2.-preguntas/tiempos-sanciones.md)
 * [¿Qué es cada sanción?](2.-preguntas/que-es-cada-sancion.md)
-* [Guía de SS](2.-preguntas/guia-de-ss.md)
+* [Guía para hacer una SS](2.-preguntas/guia-para-hacer-una-ss.md)
