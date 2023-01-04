@@ -1,6 +1,7 @@
 # Ayudante
 
-/history (nick) | Mira el historial de un jugador antes de sancionarlo.\
+/history (nick) | Mira el historial de un jugador antes de sancionarlo.
+
 /warn (nick) (motivo) | Aplica una sanción temporal de 30 días.&#x20;
 
 /unwarn (nick) | Quita una sanción a un jugador.&#x20;
