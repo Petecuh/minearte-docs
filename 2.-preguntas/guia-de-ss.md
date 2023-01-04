@@ -6,8 +6,8 @@ description: >-
 
 # Guía de SS
 
-1 . Ya estando en Anydesk deberás tocar el botón de abajo a la derecha que dice "Solicitar permisos ampliados"
-
+1 . Ya estando en Anydesk deberás tocar el botón de abajo a la derecha que dice "Solicitar permisos ampliados"\
+\
 2\. Deberás dirigirte a Minecraft, (Importante que no lo haya cerrado, si es el caso, se puede banear por Evasión de SS) Luego ya en el juego debes apretar la tecla F3 para ver la versión de este.
 
 3\. Apretaremos la tecla RShift o el Shift que tienes en la parte derecha de tu teclado, luego si no se abre ningún menú seguiremos con la SS. (PASO EXTRA) - Entraremos al "Panel de Control" e iremos a "Programas", luego a "Programas instalados" y ahí estarán los programas que están activos en la PC.
