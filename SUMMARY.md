@@ -8,6 +8,7 @@
 * [Moderador](comandos/moderador.md)
 * [Administrador](comandos/administrador.md)
 
-## SUBIR SANCIÓN
+## PREGUNTAS
 
-* [Cómo subir una buena sanción](subir-sancion/como-subir-una-buena-sancion.md)
+* [Tiempos sanciones](preguntas/tiempos-sanciones.md)
+* [Cómo subir una buena sanción](preguntas/como-subir-una-buena-sancion.md)
