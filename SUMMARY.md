@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducción](README.md)
+* [Minearte Staff Wiki](README.md)
 * [Normas](normas.md)
 
 ## 1. Comandos

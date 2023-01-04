@@ -1,4 +1,8 @@
-# Introducción
+---
+description: Introducción
+---
+
+# Minearte Staff Wiki
 
 1. Comandos\
    1.1 Ayudante\
