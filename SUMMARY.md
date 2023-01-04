@@ -13,4 +13,5 @@
 
 * [Cómo subir una buena sanción](2.-preguntas/como-subir-una-buena-sancion.md)
 * [Tiempos sanciones](2.-preguntas/tiempos-sanciones.md)
+* [¿Qué es cada sanción?](2.-preguntas/que-es-cada-sancion.md)
 * [Guía de SS](2.-preguntas/guia-de-ss.md)
