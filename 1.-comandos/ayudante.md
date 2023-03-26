@@ -4,19 +4,13 @@ description: 'Todos los siguientes comandos:'
 
 # Ayudante
 
-/history (nick) | Mira el historial de un jugador antes de sancionarlo.
-
-/warn (nick) (motivo) | Aplica una sanción temporal de 30 días.&#x20;
-
-/unwarn (nick) | Quita una sanción a un jugador.&#x20;
-
-/kick (nick) (motivo) | Expulsa a un jugador del servidor.&#x20;
-
-/warnings (nick) | Mira el historial de sanciones de un jugador.&#x20;
-
-/alts (nick) | Mira las cuentas de un usuario por IP.&#x20;
-
-/banlist | Mira la lista de baneos.&#x20;
+/history (nick) | Mira el historial de un jugador antes de sancionarlo.\
+/warn (nick) (motivo) | Aplica una sanción temporal de 30 días.\
+/unwarn (nick) | Quita una sanción a un jugador.\
+/kick (nick) (motivo) | Expulsa a un jugador del servidor.\
+/warnings (nick) | Mira el historial de sanciones de un jugador.\
+/alts (nick) | Mira las cuentas de un usuario por IP.\
+/banlist | Mira la lista de baneos.
 
 /mute (nick) | Silencia a un jugador.&#x20;
 
