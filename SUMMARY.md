@@ -5,9 +5,9 @@
 
 ## 1. Comandos
 
-* [Ayudante](1.-comandos/ayudante.md)
-* [Moderador](1.-comandos/moderador.md)
-* [Administrador](1.-comandos/administrador.md)
+* [1.1. Ayudante](1.-comandos/1.1.-ayudante.md)
+* [1.2. Moderador](1.-comandos/1.2.-moderador.md)
+* [1.3. Administrador](1.-comandos/1.3.-administrador.md)
 
 ## 2. PREGUNTAS
 
