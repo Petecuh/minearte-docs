@@ -2,7 +2,7 @@
 description: 'Todos los comandos del rango Ayudante más los siguientes:'
 ---
 
-# Moderador
+# 1.2. Moderador
 
 **/tptoggle** | Activa o desactiva las peticiones de tpa.\
 **/socialspy** | Activa o desactiva el espía de chat (msg).\

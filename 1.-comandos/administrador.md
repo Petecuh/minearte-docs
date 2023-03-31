@@ -2,7 +2,7 @@
 description: 'Todos los comandos del rango Moderador más los siguientes:'
 ---
 
-# Administrador
+# 1.3. Administrador
 
 **/anunciopetecuh** | Anuncia un mensaje de que Petecuh inicio directo.\
 **/anunciovote** | Anuncia un mensaje para que los usuarios voten.\

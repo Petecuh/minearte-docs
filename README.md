@@ -14,4 +14,4 @@ description: Introducción
    2.3. Cómo subir una buena sanción
 
 Cualquier error o duda hacédnoslo saber\
-<mark style="color:blue;">https://discord.minearte.net</mark>
+[<mark style="color:blue;">https://discord.minearte.net</mark>](https://discord.minearte.net)<mark style="color:blue;"></mark>
