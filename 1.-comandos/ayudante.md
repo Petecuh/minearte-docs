@@ -13,8 +13,7 @@ description: 'Todos los siguientes comandos:'
 /banlist | Mira la lista de baneos.\
 /mute (nick) | Silencia a un jugador. \
 /ipmute (nick) | Silencia a un jugador de IP. \
-/unmute (nick) | Quita el silencio de un jugador.&#x20;
-
+/unmute (nick) | Quita el silencio de un jugador. \
 /mutechat | Activa o desactiva el poder hablar en chat.&#x20;
 
 /vanish | Activa o desactiva el modo invisible.&#x20;

@@ -6,4 +6,4 @@
 \
 **Spam:** Es compartir tanto IPs de otros servidores como links, esto no está permitido.\
 \
-Grifeo:&#x20;
+**Grifeo:** Consiste en romper bases de usuarios ya estén protegidas o no. Quemar zonas también se considera grifeo.
