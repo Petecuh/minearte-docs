@@ -12,5 +12,5 @@ description: Aquí se muestran todas las normas que debe cumplir un staff.
 6. Tener buen micrófono y tiempo para hablar y así comunicarnos todo el staff en el canal de voz General Staff. &#x20;
 7. Aprenderse los comandos de discord y minecraft que aparecen en #canal-eliminado. &#x20;
 8. Sólo podrán entrar en SS como un máximo de dos staff. &#x20;
-9. Cuando un usuario abra ticket sólo hablará con él el staff que interactúe primero con él a no ser que sea necesario un rango superior, en este caso se le mencionará o podrá intervenir él cuando lo vea necesario.
+9. Cuando un usuario abra ticket sólo hablará con él el staff que interactúe primero. Si es necesario la ayuda de un rango superior se le mencionará, también podrá intervenir él cuando lo vea oportuno.
 10. No ser ni staff ni developer ni ayudar a ningún otro servidor de Minecraft.
