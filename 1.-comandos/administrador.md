@@ -6,7 +6,7 @@ description: 'Todos los comandos del rango Moderador más los siguientes:'
 
 **/anunciopetecuh** | Anuncia un mensaje de que Petecuh inicio directo.\
 **/anunciovote** | Anuncia un mensaje para que los usuarios voten.\
-**/crazycrates** | Comando para entregar llaves a todos los usuarios o uno en específico.\
+**/excellentcrates** | Comando para entregar llaves a todos los usuarios o uno en específico.\
 **/llavevip (nick)** | Entrega una llave VIP a un usuario.\
 **/rango (nick)** | Entra rango Arte (30 días) a un usuario. \
 **/puntos (nick)** | Entrega 2,5k de dinero a un usuario. \
