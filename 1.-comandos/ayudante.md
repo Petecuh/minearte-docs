@@ -14,10 +14,8 @@ description: 'Todos los siguientes comandos:'
 /mute (nick) | Silencia a un jugador. \
 /ipmute (nick) | Silencia a un jugador de IP. \
 /unmute (nick) | Quita el silencio de un jugador. \
-/mutechat | Activa o desactiva el poder hablar en chat.&#x20;
-
-/vanish | Activa o desactiva el modo invisible.&#x20;
-
+/mutechat | Activa o desactiva el poder hablar en chat. \
+/vanish | Activa o desactiva el modo invisible. \
 /freeze (nick) | Congela a un usuario.&#x20;
 
 /unfreeze (nick) | Descongela a un usuario.&#x20;
