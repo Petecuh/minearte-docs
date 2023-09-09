@@ -12,6 +12,7 @@ description: 'Todos los siguientes comandos:'
 /alts (nick) | Mira las cuentas de un usuario por IP.\
 /banlist | Mira la lista de baneos.\
 /mute (nick) | Silencia a un jugador. \
+**/tempmute (nick) (tiempo) (razón)** | Silencia temporalmente un usuario.\
 /ipmute (nick) | Silencia a un jugador de IP. \
 /unmute (nick) | Quita el silencio de un jugador. \
 /mutechat | Activa o desactiva el poder hablar en chat. \
