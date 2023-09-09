@@ -13,20 +13,20 @@ description: 'Todos los siguientes comandos:'
 **/banlist** | Mira la lista de baneos.\
 **/mute (nick)** | Silencia a un jugador. \
 **/tempmute (nick) (tiempo) (razón)** | Silencia temporalmente un usuario.\
-/ipmute (nick) | Silencia a un jugador de IP. \
-/unmute (nick) | Quita el silencio de un jugador. \
-/mutechat | Activa o desactiva el poder hablar en chat. \
-/vanish | Activa o desactiva el modo invisible. \
-/freeze (nick) | Congela a un usuario. \
-/unfreeze (nick) | Descongela a un usuario. \
-/invsee (nick) | Mira el inventario de un usuario. \
-/co inspect | Activa o desactiva el inspector para ver grifeos o robos. \
-/co lookup t:(tiempo) a:kill r:(radio) | Inspecciona los mobs muertos en un radio y tiempo determinado. \
-/co lookup t:(tiempo) a:chat u:(nick) | Observa los últimos mensajes de un jugador. \
-/ping (nick) | Mira la conexión de un usuario. \
-/enderchest (nick) | Mira el enderchest de un usuario. \
-/backpack (nick) | Mira la mochila de un usuario. \
-/tp (nick) | Teletranspórtate a un usuario. \
-/near | Mira los jugadores que tienes cerca. \
-/staff | Activa el modo staff. \
-/staffchat | Activa o desactiva los mensajes entre el staff.
+**/ipmute (nick)** | Silencia a un jugador de IP. \
+**/unmute (nick)** | Quita el silencio de un jugador. \
+**/mutechat** | Activa o desactiva el poder hablar en chat. \
+**/vanish** | Activa o desactiva el modo invisible. \
+**/freeze (nick)** | Congela a un usuario. \
+**/unfreeze (nick)** | Descongela a un usuario. \
+**/invsee (nick)** | Mira el inventario de un usuario. \
+**/co inspect** | Activa o desactiva el inspector para ver grifeos o robos. \
+**/co lookup t:(tiempo) a:kill r:(radio)** | Inspecciona los mobs muertos en un radio y tiempo determinado. \
+**/co lookup t:(tiempo) a:chat u:(nick)** | Observa los últimos mensajes de un jugador. \
+**/ping (nick)** | Mira la conexión de un usuario. \
+**/enderchest (nick)** | Mira el enderchest de un usuario. \
+**/backpack (nick)** | Mira la mochila de un usuario. \
+**/tp (nick)** | Teletranspórtate a un usuario. \
+**/near** | Mira los jugadores que tienes cerca. \
+**/staff** | Activa el modo staff. \
+**/staffchat** | Activa o desactiva los mensajes entre el staff.
