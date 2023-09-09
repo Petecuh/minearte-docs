@@ -13,4 +13,5 @@ description: 'Todos los comandos del rango Moderador más los siguientes:'
 **/irp restore (nick)** | Muestra las copias de seguridad del inventario de jugadores y las restaura. \
 **/bc (mensaje)** | Anuncia un mensaje a todos los usuarios.\
 **/eco \[take/give] (nick) (cantidad)** | Entregar o remover cierta cantidad de dinero a un usuario.\
-**/tphere (nick)** | Teletransporta a un usuario hacia tí.
+**/tphere (nick)** | Teletransporta a un usuario hacia tí.\
+**/antivpn whitelist \[add/remove] (ip)** | Agrega una IP a la lista blanca para permitirles eludir cualquier control.
