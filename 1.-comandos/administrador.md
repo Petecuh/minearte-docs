@@ -14,4 +14,4 @@ description: 'Todos los comandos del rango Moderador más los siguientes:'
 **/bc (mensaje)** | Anuncia un mensaje a todos los usuarios.\
 **/eco \[take/give] (nick) (cantidad)** | Entregar o remover cierta cantidad de dinero a un usuario.\
 **/tphere (nick)** | Teletransporta a un usuario hacia tí.\
-**/antivpn** | Muestra el menú de ayuda del AntiVPN.
+**/antivpn help** | Muestra el menú de ayuda del AntiVPN.
