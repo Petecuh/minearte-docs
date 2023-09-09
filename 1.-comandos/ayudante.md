@@ -20,22 +20,13 @@ description: 'Todos los siguientes comandos:'
 /freeze (nick) | Congela a un usuario. \
 /unfreeze (nick) | Descongela a un usuario. \
 /invsee (nick) | Mira el inventario de un usuario. \
-/co inspect | Activa o desactiva el inspector para ver grifeos o robos.&#x20;
-
-/co lookup t:(tiempo) a:kill r:(radio) | Inspecciona los mobs muertos en un radio y tiempo determinado.&#x20;
-
-/co lookup t:(tiempo) a:chat u:(nick) | Observa los últimos mensajes de un jugador.
-
-/ping (nick) | Mira la conexión de un usuario.&#x20;
-
-/enderchest (nick) | Mira el enderchest de un usuario.&#x20;
-
-/backpack (nick) | Mira la mochila de un usuario.&#x20;
-
-/tp (nick) | Teletranspórtate a un usuario.&#x20;
-
-/near | Mira los jugadores que tienes cerca.&#x20;
-
-/staff | Activa el modo staff.&#x20;
-
+/co inspect | Activa o desactiva el inspector para ver grifeos o robos. \
+/co lookup t:(tiempo) a:kill r:(radio) | Inspecciona los mobs muertos en un radio y tiempo determinado. \
+/co lookup t:(tiempo) a:chat u:(nick) | Observa los últimos mensajes de un jugador. \
+/ping (nick) | Mira la conexión de un usuario. \
+/enderchest (nick) | Mira el enderchest de un usuario. \
+/backpack (nick) | Mira la mochila de un usuario. \
+/tp (nick) | Teletranspórtate a un usuario. \
+/near | Mira los jugadores que tienes cerca. \
+/staff | Activa el modo staff. \
 /staffchat | Activa o desactiva los mensajes entre el staff.
