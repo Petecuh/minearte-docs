@@ -1,8 +1,8 @@
 ---
-description: En este documento podrás aprender cómo subir una correcta sanción.
+description: En este documento podrás aprender cómo subir una sanción correcta.
 ---
 
-# Cómo subir una buena sanción
+# Cómo sancionar a un jugador
 
 Para empezar, cuando un usuario no cumple una de las normas del servidor tendremos que ver si anteriormente ha incumplido alguna de estas. Para ello usaremos el comando **/history (nick)**\
 ![](https://lh5.googleusercontent.com/xXm4G1K2sAMfiYZ\_qweOuDtYRnElDb5B1v7PybCDRJ6GlhZGnmfofew\_CEmIeGQFUeWSFYVZbcxrSQxXKeCmtW1yABQt6fCeKdz7tzSvMRjntb43qmkukQWi3Y8ZAO2J-DnsQHfMJFO3cyUmAtbhjCi4rQ3sqkKEqCbGQjeaexHPoNeh9\_AjDnsgfeat)\
