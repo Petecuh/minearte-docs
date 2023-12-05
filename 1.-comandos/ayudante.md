@@ -2,7 +2,7 @@
 description: 'Todos los siguientes comandos:'
 ---
 
-# 1.1. Ayudante
+# 1.1. Soporte
 
 **/history (nick)** | Mira el historial de un jugador antes de sancionarlo.\
 **/warn (nick) (motivo)** | Aplica una sanción temporal de 30 días.\

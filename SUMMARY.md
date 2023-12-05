@@ -5,7 +5,7 @@
 
 ## 1. Comandos
 
-* [1.1. Soporte](1.-comandos/1.1.-soporte.md)
+* [1.1. Soporte](1.-comandos/ayudante.md)
 * [1.2. Moderador](1.-comandos/moderador.md)
 * [1.3. Administrador](1.-comandos/administrador.md)
 
