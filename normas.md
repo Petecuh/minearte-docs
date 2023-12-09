@@ -13,6 +13,5 @@ description: Aquí se muestran todas las normas que debe cumplir un staff.
 7. Aprenderse los comandos que aparecen en [Broken link](broken-reference "mention").
 8. Sólo podrán entrar en SS como un máximo de dos staff. &#x20;
 9. Cuando un usuario abra ticket sólo hablará con él el staff que interactúe primero. Si es necesario la ayuda de un rango superior se le mencionará, también podrá intervenir él cuando lo vea oportuno.
-10. No ser ni staff ni developer ni ayudar a ningún otro servidor de Minecraft.
-11. No criticar a ningún staff ni montar ningún conflicto, tanto en el servidor de Minecraft cómo en el de Discord. Cualquier problema comunicárselo a un Dueño vía ticket.
-12. No abusar del rango, es decir, no usar de mala manera los comandos para beneficio propio.
+10. No criticar a ningún staff ni montar ningún conflicto, tanto en el servidor de Minecraft cómo en el de Discord. Cualquier problema comunicárselo a un Dueño vía ticket.
+11. No abusar del rango, es decir, no usar de mala manera los comandos para beneficio propio.
